@@ -1,0 +1,31 @@
+@charset "gb2312";
+/* CSS Document */
+
+*{ padding:0; margin:0;}
+body{background: #f1f1f1 url() repeat-x top; margin:0 auto; font-size:12px; font-family:"ËÎÌו"; color:#666;}
+#wrap{ width:960px; margin:0 auto;}
+.header{ height:261px; }
+.top{ height:30px;}
+.logo{ padding-top:10px;}
+.welcome{ padding-top:20px;}
+.top ul li{ font-size:16px; font-family:Microsoft yahei; color:#fff;}
+.tips{ padding-top:10px;}
+
+.main{ margin-top:10px;}
+.content_top{}
+.content{ background:#fff url(../images/border.gif) repeat-y; min-height:80px; padding:0 30px;}
+.content_bottom{}
+
+.title{ padding-bottom:5px;padding-top:30px; border-bottom: 1px dashed #dcdcdc;  width:910px;}
+.title h3{ color:#017e60;}
+.title a{ padding-right:11px; line-height:30px}
+
+.footer{ background:url(../images/footer.jpg) repeat-x; height:82px; margin-top:15px;}
+.foot{ width:960px; margin:0 auto; padding-top:10px;}
+
+.f_l{ float:left}
+.f_r{ float:right;}
+.clear{ clear:both;}
+li{ list-style-type:none}
+
+a:link,a:visited{ color:#666; text-decoration:none;}
